@@ -4,9 +4,9 @@ on: [push]
 
 env:
   ROM: ColorOS
-  ROM_LINK: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0270_all_EmtL5ZcP1lZd.ozip
+  ROM_LINK: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1060_all_vldiYirroxu1.ozip
   MIR: gof
-  MIR2: wet
+  MIR2: bit
   TZ: America/Sao_Paulo
 jobs:
   build:
