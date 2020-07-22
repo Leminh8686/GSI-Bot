@@ -6,6 +6,8 @@ Features :
 
 Simplified code, that's all :)
 
+And some insane extras when I have time
+
 
 ## Credits and thanks ##
 
