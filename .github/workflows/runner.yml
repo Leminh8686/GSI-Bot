@@ -3,8 +3,8 @@ name: GSI - Erfan
 on: [push]
 
 env:
-  ROM: Generic:AndroidOne
-  ROM_LINK: https://bigota.d.miui.com/V10.3.4.0.PFQMIXM/laurel_sprout_global_images_V10.3.4.0.PFQMIXM_20190815.0000.00_9.0_00838b4c0e.tgz
+  ROM: OxygenOS:OnePlusNord
+  ROM_LINK: https://otafsg1.h2os.com/patch/amazone2/GLO/NordOxygen/NordOxygen_14.I.04_GLO_004_2007170032/NordOxygen_14_OTA_004_all_2007170032_c357304482c23.zip
   MIR: gof
   MIR2: bit
   TZ: America/Sao_Paulo
