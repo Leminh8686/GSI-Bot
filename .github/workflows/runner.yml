@@ -3,8 +3,8 @@ name: GSI - Erfan
 on: [push]
 
 env:
-  ROM: MIUI:MiuiJavanese
-  ROM_LINK: http://tdrive.manofuranium.workers.dev/Javanese_MIUI_0.1.0.ESTJV_Ginkgo_v12.1.zip
+  ROM: VOS
+  ROM_LINK: http://tdrive.manofuranium.workers.dev/VOS3.0Stable.zip
   MIR: gof
   MIR2: bit
   TZ: America/Sao_Paulo
