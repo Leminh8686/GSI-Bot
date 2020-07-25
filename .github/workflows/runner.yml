@@ -4,7 +4,7 @@ on: [push]
 
 env:
   ROM: VOS
-  ROM_LINK: http://tdrive.manofuranium.workers.dev/VOS3.0Stable.zip
+  ROM_LINK: http://tdrive.manofuranium.workers.dev/VOS3.0Redesign_V420A_OPN_U_B9_200627.zip
   MIR: gof
   MIR2: bit
   TZ: America/Sao_Paulo
