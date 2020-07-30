@@ -3,8 +3,8 @@ name: GSI - Erfan
 on: [push]
 
 env:
-  ROM: VOS
-  ROM_LINK: http://tdrive.manofuranium.workers.dev/VOS3.0Redesign_V420A_OPN_U_B9_200627.zip
+  ROM: Generic:RR8.0
+  ROM_LINK: http://tdrive.manofuranium.workers.dev/RROS-Q-8.4.9-20200727-guacamole-Official.zip
   MIR: gof
   MIR2: bit
   TZ: America/Sao_Paulo
