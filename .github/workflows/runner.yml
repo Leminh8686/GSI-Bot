@@ -3,8 +3,8 @@ name: GSI - Erfan
 on: [push]
 
 env:
-  ROM: Generic:RR8.0
-  ROM_LINK: http://tdrive.manofuranium.workers.dev/RROS-Q-8.4.9-20200727-guacamole-Official.zip
+  ROM: Generic:Nokia
+  ROM_LINK: http://ota-filesite.oss-cn-hangzhou.aliyuncs.com/SWImage/500002276
   MIR: gof
   MIR2: bit
   TZ: America/Sao_Paulo
